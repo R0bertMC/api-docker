@@ -1,0 +1,8 @@
+services:
+  api-docker:
+    build: .
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./empresa.db:/app/empresa.db
+    restart: always
