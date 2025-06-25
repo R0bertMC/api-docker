@@ -84,4 +84,4 @@ minha-api-vendas/
 
 ---
 
-Desenvolvido para fins acadêmicos.
+Desenvolvido para fins acadêmicos por [Julieagarb](https://github.com/Julieagarb)
